@@ -15,12 +15,22 @@ pref prototyping Boards
 mpu 6050
 sd card module
 
-you can view the trail from: https://youtu.be/sQyQvXu2BQA
+## you can view the trail from: https://youtu.be/sQyQvXu2BQA
+
+
+## pcb:
+
+<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/418ecb70-e253-4899-9b77-ecc553bdaae2" />
+<img width="400" height="330" alt="image" src="https://github.com/user-attachments/assets/1b8dcb73-22ee-493c-b37c-832781205f21" />
+
+
+
+# SMO now:
 
 
 <img width="1300" height="850" alt="_MG_9313" src="https://github.com/user-attachments/assets/4d8d2ea7-3968-42d5-b501-cfaf1e685f27" />
 
-
+### this is smo until 2nd of july 2026 the next update with implemnting all feautres after 2 weeks
 
 ## finished features:
 Oscilloscope
