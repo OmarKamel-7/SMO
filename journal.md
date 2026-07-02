@@ -11,6 +11,9 @@ create a pocket sized companion for electronics enthusiasts students
 
 ---
 
+<img width="259.2" height="172.8" alt="image" src="https://github.com/user-attachments/assets/c3631a13-404c-4b64-8b45-1d5d81d1fd38" />
+
+
 # Current Hardware
 
 * Raspberry Pi Pico 2 W
@@ -126,8 +129,10 @@ The firmware contains boot and menu animations that improve ux
 
 # PCB Status
 
+<img width="480" height="280" alt="image" src="https://github.com/user-attachments/assets/5deee7a9-48a9-4a78-9bba-f85a72b325d7" />
 
-The next milestone is designing a dedicated PCB 
+
+designing a dedicated PCB 
 
 * Pico 2 W
 * Display connector
