@@ -20,10 +20,8 @@ sd card module
 
 ## pcb:
 
-<img width="350" height="300" alt="image" src="https://github.com/user-attachments/assets/418ecb70-e253-4899-9b77-ecc553bdaae2" />
-<img width="400" height="330" alt="image" src="https://github.com/user-attachments/assets/1b8dcb73-22ee-493c-b37c-832781205f21" />
-
-
+<img width="400" height="550" alt="image" src="https://github.com/user-attachments/assets/8c9c163b-0fb9-4e5b-9f7f-ff1d036cd7d0" />
+<img width="490" height="350" alt="image" src="https://github.com/user-attachments/assets/6fa14800-24d8-4fe5-aeac-092b1aaed8bd" />
 
 # SMO now:
 
